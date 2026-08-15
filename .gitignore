@@ -1,0 +1,6 @@
+# Trained models and temporary smoke-test outputs (large / regenerable)
+models/
+smoke_out/
+plots/
+results/
+
